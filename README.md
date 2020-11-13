@@ -7,3 +7,8 @@ https://www.udemy.com/course/twitter-affiliate-marketing-or-1300-usd-on-autopilo
 https://venturebeat.com/2017/02/02/how-to-build-your-own-twitter-bot-in-less-than-30-minutes/ 
 
 https://en.wikipedia.org/wiki/Twitter_bot
+https://towardsdatascience.com/twitter-3478a68d5875
+https://towardsdatascience.com/twitter-3478a68d5875
+https://scrolltest.com/2015/05/16/10-minutes-to-make-our-twitter-bot-with-tweepy-in-python/
+http://www.almasdar.com/upload/libfiles/0/0/7.html?v=W0wWwglE1Vc
+https://www.youtube.com/watch?v=ewq-91-e2fw&ab_channel=CodeWizard
