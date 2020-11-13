@@ -3,3 +3,7 @@ https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;c
 
 
 https://www.udemy.com/course/twitter-affiliate-marketing-or-1300-usd-on-autopilot/
+
+https://venturebeat.com/2017/02/02/how-to-build-your-own-twitter-bot-in-less-than-30-minutes/ 
+
+https://en.wikipedia.org/wiki/Twitter_bot
