@@ -12,3 +12,9 @@ https://towardsdatascience.com/twitter-3478a68d5875
 https://scrolltest.com/2015/05/16/10-minutes-to-make-our-twitter-bot-with-tweepy-in-python/
 http://www.almasdar.com/upload/libfiles/0/0/7.html?v=W0wWwglE1Vc
 https://www.youtube.com/watch?v=ewq-91-e2fw&ab_channel=CodeWizard
+
+
+https://www.investopedia.com/articles/active-trading/081315/how-code-your-own-algo-trading-robot.asp
+https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I/
+https://www.packtpub.com/product/learn-algorithmic-trading-fundamentals-of-algorithmic-trading/9781789348347
+https://www.coursera.org/courses?query=algorithmic%20trading
